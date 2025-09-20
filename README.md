@@ -1,2 +1,2 @@
 # Fast_api
-Mylearning path to learn fast api
+My learning path to learn fast api
